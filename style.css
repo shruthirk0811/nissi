@@ -1,0 +1,84 @@
+body{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    background-image: url("imagess/home.jpg") ;
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.checkmark{
+   font-family: 'Courier New', Courier, monospace; 
+}
+    
+    
+    
+   .menu{
+    h1{
+        text-align: left;
+        margin-left: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    background-image: url("imagess/menuu.jpg");
+        background-size: cover;
+      flex-direction: column;   
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    
+   }
+
+   .contact{
+    h1{
+        font-family:'Courier New', Courier, monospace;
+    }
+    background-image: url("imagess/contact.jpg");
+        background-size:contain;
+       
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+   }
+    
+   .wtsk{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   }
+     
+
+
+header{
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(19, 1, 1);
+    padding: 15px;
+}
+.post{
+    font-family:cursive;
+    font-style: oblique;
+    color:crimson;
+    font-size: 100%;
+}
+
+
+
+nav a{
+    color: rgb(4, 11, 55);
+    text-decoration:double;
+    margin:10px;
+
+}
+
+table{
+    font-family:cursive;
+    margin-right:auto;
+    border: 4px solid black;
+    padding:10px;
+}
+
+th,td{
+    padding: 30px;
+    
+}
